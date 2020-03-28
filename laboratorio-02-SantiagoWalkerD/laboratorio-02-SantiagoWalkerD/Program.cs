@@ -6,7 +6,8 @@ namespace laboratorio_02_SantiagoWalkerD
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("probando");
+
         }
     }
 }
