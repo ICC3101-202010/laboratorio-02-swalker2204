@@ -6,7 +6,9 @@ namespace laboratorio_02_SantiagoWalkerD
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("probando");
+            Cancion cancion = new Cancion("pop", "Ellie Goulding", "Lights", "Lights");
+
+            Console.WriteLine(cancion.informacion());
 
         }
     }
