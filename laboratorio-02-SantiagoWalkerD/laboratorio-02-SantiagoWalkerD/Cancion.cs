@@ -20,7 +20,7 @@ namespace laboratorio_02_SantiagoWalkerD
         }
         public string informacion()
         {
-            string z = ("genero: " + genero + ", artista: " + artista + ", album: " + album + ", nombre: " + nombre);
+            string z = "genero: " + genero + ", artista: " + artista + ", album: " + album + ", nombre: " + nombre;
             return z;
         }
 
